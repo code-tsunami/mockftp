@@ -1,10 +1,9 @@
-/*
+/*******************************************************************************
  * Sonam Kindy
  * Description: server-side (ftserver)
- * Created: 11/17/18
  * Last Modified: 11/18/18
- * Ref: https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleserver 
-*/
+ * Ref: https://beej.us/guide/bgnet/html/multi/clientserver.html#simpleserver
+ ******************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
