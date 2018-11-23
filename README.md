@@ -43,11 +43,9 @@ ftclient.py <host1_name> <control_port> -g <file_to_get> <data_port>
 
 * **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
 
-<!-- ## Acknowledgments (Resources)
+## Acknowledgments
 
-* Inspiration
-* Code used
-* etc. -->
+* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/single/bgnet.html)
 
 ## License
 
