@@ -41,7 +41,7 @@ ftclient.py <host1_name> <control_port> -g <file_to_get> <data_port>
 
 ## Author
 
-* **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
+* **Sonam Kindy** - [sonamdkindy](https://github.com/sonamdkindy)
 
 ## Acknowledgments
 
